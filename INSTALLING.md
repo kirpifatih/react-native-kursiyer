@@ -20,7 +20,7 @@ Brew yüklendikten sonra aşşağıdaki gereksimleri yüklüyoruz.
     brew tap AdoptOpenJDK/openjdk
     brew cask install adoptopenjdk8
 
-Daha sonra [React Native Cli]() alanından cli kısmını install edebilirsiniz.
+Daha sonra [React Native Cli](https://github.com/yasaricli/react-native-kursiyer/blob/master/INSTALLING.md#react-native-cli) alanından cli kısmını install edebilirsiniz.
 
 ## Windows
 
