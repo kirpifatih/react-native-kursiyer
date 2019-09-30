@@ -2,7 +2,7 @@
 
 **React Native** geliştirmesi için `Macos`, `Windows` ortamlarında aşşağıdaki kurulum işlemlerini takip ediniz.
 
-Gerekli Ortak Yüklemeler
+## Gerekli Ortak Yüklemeler
 
 * [Nodejs](https://nodejs.org/en/download/) `LTS` olan yüklenmelidir.
 * [Android Studio](https://developer.android.com/studio/) `DOWNLOAD ANDROID STUDIO` butonuna tıklandıktan sonra indirebilirsiniz.
