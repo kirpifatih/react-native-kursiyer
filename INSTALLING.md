@@ -38,5 +38,17 @@ Aynı şekilde yukarıdaki linkten indirelim. Kuruluma geçelim.
 
 4) Kopyaladığımız sdk adresini **ANDROID_HOME** değişkeni olarak Environment olarak ekliyoruz.
 
+### React Native Cli
+Tüm sistem gereksimlerini yükledikten sonra artık cli paketimizi kurabilir, başlayabiliriz.
+
+**cmd** ekranımızı açıp [react-native-cli](https://github.com/react-native-community/cli) paketini `global` olarak yükleyelim.
+
+``` shell
+npm install react-native-cli -g
+
+react-native --version
+```
+
+Ve bu kadar ;)
 
 ## Bazı Hata Ve Çözümleri
