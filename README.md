@@ -7,8 +7,8 @@
 </p>
 
 
-
 Kurulum işlemleri için [Installing](INSTALLING.md) dosyasını takip ediniz.
 
+Başlangıç için [Started](STARTED.md) dosyasını takip ediniz.
 
 Katkıda bulunmak isterseniz, `fork` yaptıktan sonra `pull request` gönderebilirsiniz, **teşekkürler**.
