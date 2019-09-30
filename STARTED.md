@@ -31,3 +31,11 @@ Hala Kurulum yapmamış iseniz [Installing](INSTALLING.md) dosyasını takip edi
 Bu parametre ile özel olarak cihaz seçebilir direk o cihaz üzerine build yapabilirsiniz.
 
     react-native run-ios --platform="iPhone 6s"
+
+#### start
+
+Normalde tüm run komutlarında otomatik olarak çalışmaktadır. Ama ayrı olarak çalıştırabilirsiniz.
+
+    react-native start
+    
+Her şekikde çalışacağı için [localhost:8081/debugger-ui/](http://localhost:8081/debugger-ui/) adresinden ulaşabilirsiniz.
