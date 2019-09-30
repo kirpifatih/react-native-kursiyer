@@ -6,17 +6,26 @@
 
 * [Nodejs](https://nodejs.org/en/download/) `LTS` olan yüklenmelidir.
 * [Android Studio](https://developer.android.com/studio/) `DOWNLOAD ANDROID STUDIO` butonuna tıklandıktan sonra indirebilirsiniz.
-* [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) ` Java SE Development Kit 8u221` olanı indirmeniz gerekiyor.
+* [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) `Java SE Development Kit 8u221` olanı indirmeniz gerekiyor.
+* [brew](https://brew.sh/) Sadece Macos için
 
 **NOT**: `Nodejs` dosya olarak yüklendiğinde `Npm` otomatik olarak yüklenmektedir!
 
-
 ## Macos
+**Nodejs, Java, Brew** yüklemelerini yukarıdaki linklerden yapabilirsiniz.
+
+Brew yüklendikten sonra aşşağıdaki gereksimleri yüklüyoruz.
+
+    brew install watchman
+    brew tap AdoptOpenJDK/openjdk
+    brew cask install adoptopenjdk8
+
+Daha sonra [React Native Cli]() alanından cli kısmını install edebilirsiniz.
 
 ## Windows
 
 #### Nodejs
-Nodejs kurulumunu yukarıdaki linkten indirebilir ve kurabilirsiniz. Npm otomatik olarak kurulu gelecektir.
+**Nodejs** kurulumunu yukarıdaki linkten indirebilir ve kurabilirsiniz. **Npm** otomatik olarak kurulu gelecektir.
 
 #### Android Studio
 Aynı şekilde yukarıdaki linkten indirelim. Kuruluma geçelim.
