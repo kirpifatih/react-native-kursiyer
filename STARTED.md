@@ -16,13 +16,13 @@ Hala Kurulum yapmamış iseniz [Installing](INSTALLING.md) dosyasını takip edi
 
 ### run-android (Tüm Ortamlar)
 
-İsminden de belli olduğu gibi uygulamanızı android tarafında başlatmanızı sağlar. Eğer bilgisayarınıza bir cihaz veya emulator bağlı ise ona build eder.
+İsminden de belli olduğu üzere uygulamanızı android tarafında başlatmanızı sağlar. Eğer bilgisayarınıza bir cihaz veya emulator bağlı ise ona build eder.
 
     react-native run-android
     
 ### run-ios (Macos Ortamı)
 
-İsminden de belli olduğu gibi uygulamanızı ios tarafında başlatmanızı sağlar. Direk olarak macos sistemlerde çalışır. Macos üzerinde kendi emulatorunu kullanır. 
+İsminden de belli olduğu üzere uygulamanızı ios tarafında başlatmanızı sağlar. Direk olarak macos sistemlerde çalışır. Macos üzerinde kendi emulatorunu kullanır. 
 
     react-native run-ios
     
@@ -38,4 +38,7 @@ Normalde tüm run komutlarında otomatik olarak çalışmaktadır. Ama ayrı ola
 
     react-native start
     
-Her şekikde çalışacağı için [localhost:8081/debugger-ui/](http://localhost:8081/debugger-ui/) adresinden ulaşabilirsiniz.
+Her şekilde çalışacağı için [localhost:8081/debugger-ui/](http://localhost:8081/debugger-ui/) adresinden ulaşabilirsiniz.
+
+#### info
+Projenizin genel anlamda tüm bilgilerini **(System, Binaries, SDKs, IDEs, npmPackages, npmGlobalPackages)** gösterir. 
