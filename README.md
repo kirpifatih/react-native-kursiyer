@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  `React Native` Kursiyer dökümantasyonu.
+  <b>React Native</b> Kursiyer dökümantasyonu.
 </p>
-
 
 Kurulum işlemleri için [Installing](INSTALLING.md) dosyasını takip ediniz.
