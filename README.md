@@ -1,5 +1,3 @@
-# react-native-kursiyer
-
 <p align="center">
   <img src="logo.png" width="200" />
 </p>
@@ -8,4 +6,9 @@
   <b>React Native</b> Kursiyer dökümantasyonu.
 </p>
 
+
+
 Kurulum işlemleri için [Installing](INSTALLING.md) dosyasını takip ediniz.
+
+
+Katkıda bulunmak isterseniz, `fork` yaptıktan sonra `pull request` gönderebilirsiniz, **teşekkürler**.
