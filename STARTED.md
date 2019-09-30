@@ -42,3 +42,5 @@ Her şekilde çalışacağı için [localhost:8081/debugger-ui/](http://localhos
 
 #### info
 Projenizin genel anlamda tüm bilgilerini **(System, Binaries, SDKs, IDEs, npmPackages, npmGlobalPackages)** gösterir. 
+
+    react-native info
