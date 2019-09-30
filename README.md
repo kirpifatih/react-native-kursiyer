@@ -6,6 +6,8 @@
   <b>React Native</b> Kursiyer dökümantasyonu.
 </p>
 
+### React Native ?
+`React` çatısını baz alarak `Native` arayüzler aracılığıyla **mobil** uygulama yazılmasını sağlayan bir geliştirme ortamıdır. 
 
 Kurulum işlemleri için [Installing](INSTALLING.md) dosyasını takip ediniz.
 
