@@ -1,6 +1,12 @@
 # react-native-kursiyer
 
-`React Native` Kursiyer başlangıç ve ileri seviye bilgileri.
+<p align="center">
+  <img src="logo.png" width="200" />
+</p>
+
+<p align="center">
+  `React Native` Kursiyer dökümantasyonu.
+</p>
 
 
 Kurulum işlemleri için [Installing](INSTALLING.md) dosyasını takip ediniz.
